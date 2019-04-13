@@ -215,6 +215,14 @@ img {
   color: #212529;
   text-decoration: none;
 }
+.main-navigation .nav-container .nav .crazy_menu {
+  text-transform: uppercase;
+  color: green;
+  padding: 5px 15px;
+  font-size: 1.5rem;
+  background-color: #C0C0C0;
+  border: 1px black solid;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed #C0C0C0;
